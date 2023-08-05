@@ -1,6 +1,8 @@
 import React from 'react';
 import HeroBanner from './components/hero-banner';
 import Offers from './components/offers'
+import TopCategories from './components/top-categories';
+import MustHave from './components/must-have';
 import './styles.css';
 
 const Home = () => {
@@ -20,6 +22,8 @@ const Home = () => {
         </div>
         <HeroBanner />
         <Offers />
+        <TopCategories />
+        <MustHave />
       </header>
     </div>
   );

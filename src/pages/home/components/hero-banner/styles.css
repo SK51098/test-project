@@ -17,3 +17,7 @@
     color: #4c897a;
     margin-top: 1rem;
 }
+.banner__buttons:hover {
+    color: #fff;
+    background-color: #000;
+}

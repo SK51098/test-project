@@ -36,3 +36,17 @@
     #fbdfda 100%
   );
 }
+.offerDiscount {
+  background-color: #000 !important;
+  color: #fff;
+  text-align: center;
+  padding: 0.5rem 1.5rem;
+}
+.offerDiscount:hover {
+  background-color: #fff !important;
+  color: #000;
+  border: 2px solid #000;
+}
+.discountCode {
+  margin: auto 1rem;
+}

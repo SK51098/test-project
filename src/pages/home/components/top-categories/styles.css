@@ -1,0 +1,15 @@
+.topCategories__Content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem
+}
+.topCategories__Button {
+  width: 19.5%;
+  padding: 1.5rem 0;
+  font-weight: 500;
+}
+.topCategories__Button:hover {
+  background-color: #4c897a;
+  color: #fff;
+}
