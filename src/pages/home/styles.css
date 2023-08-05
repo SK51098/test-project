@@ -1,0 +1,13 @@
+.superTopNav{
+    background-color: #f2f2f2;
+    padding: 0.5rem;
+    font-weight: 700;
+}
+.superTopNavFlexContant{
+    justify-content: space-evenly;
+}
+.superTopNavFlexContant button{
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}

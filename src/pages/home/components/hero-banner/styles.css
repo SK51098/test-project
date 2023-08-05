@@ -1,0 +1,19 @@
+.heroBanner {
+  background-color: #4c897a;
+}
+.heroBanner .banner__Image {
+  width: 33%;
+  height: auto;
+}
+.heroBanner .banner__Content {
+  width: 34%;
+  height: auto;
+  margin: auto 4rem;
+  text-align: center;
+  color: #fff;
+}
+.banner__buttons{
+    padding: 1rem;
+    color: #4c897a;
+    margin-top: 1rem;
+}

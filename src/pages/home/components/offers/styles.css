@@ -1,0 +1,38 @@
+.offers_contant {
+  justify-content: space-evenly;
+}
+.offers_contant button {
+  background-color: #fff;
+  border: none;
+}
+.offersPersentage {
+  padding: 1rem;
+  padding-bottom: 0;
+}
+.get10Off {
+  background: linear-gradient(
+    to bottom,
+    #ffffff 0%,
+    #ffffff 65%,
+    #fbe1ee 65%,
+    #fbe1ee 100%
+  );
+}
+.get20Off {
+  background: linear-gradient(
+    to bottom,
+    #ffffff 0%,
+    #ffffff 65%,
+    #f9ede1 65%,
+    #f9ede1 100%
+  );
+}
+.get30Off {
+  background: linear-gradient(
+    to bottom,
+    #ffffff 0%,
+    #ffffff 65%,
+    #fbdfda 65%,
+    #fbdfda 100%
+  );
+}
